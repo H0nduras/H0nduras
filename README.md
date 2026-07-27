@@ -11,7 +11,11 @@
 <tr>
 <td width="360" align="left" valign="middle">
 <img alt="dibujito" src="https://github.com/user-attachments/assets/1c36911d-9e44-4129-b1e7-d8a43198511f" width="360">
-<a href="https://www.patreon.com/cw/SleepyGoat"> EL QUE NO SALTA ES UN INGLÉS </a>&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp; 
+<a href="https://www.patreon.com/profile/creators?u=217345575"> EL QUE NO SALTA ES UN INGLÉS </a>&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp; 
+<img width="45" height="18" alt="20" src="https://github.com/user-attachments/assets/57043e47-6399-42e6-9112-0e994b488aa6" />
+<img width="39" height="18" alt="43" src="https://github.com/user-attachments/assets/fb5802aa-1a04-4096-a8fc-a754f1453d72" />
+<img width="76" height="18" alt="1422" src="https://github.com/user-attachments/assets/36c43193-8dbd-4869-b182-8985eba7c167" />
+
 </td>
 <td width="360" align="left" valign="middle">
 <img src="https://file.garden/ambp9JUqZzagxpZC/estrella" width="20"><br>
@@ -26,6 +30,11 @@ ${\textsf{\color{#0024B8}pero}}$ ${\textsf{\color{#0036CC}todos}}$ ${\textsf{\co
 <td width="360" align="left" valign="middle">
 <img alt="7_sin_titulo_20260727050407" src="https://github.com/user-attachments/assets/75dfd1cf-78a9-4e98-ad56-3a89a521f219" width="360">
 <a href="https://github.com/mikhaelgeographylover3"> OH MAE, COMPRA BOBBIE GOODS</a>&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp; 
+  <img width="45" height="18" alt="tumblr_6eb66781b13e5dc041f3c5c5fc6bd5cc_56bda348_75" src="https://github.com/user-attachments/assets/c6b86041-bf99-4192-9629-0a9bb3083e30" />
+  <img width="54" height="22" alt="1189" src="https://github.com/user-attachments/assets/a73bc664-78be-4e7e-bffd-be9f66b32276" />
+<img width="54" height="18" alt="13" src="https://github.com/user-attachments/assets/b2fdd9bd-9468-4e64-9d3b-6c7a6c7eca0f" />
+
+
 </td>
 </tr>
 </table>
